@@ -1,0 +1,6 @@
+{
+  "name": "Browser Visual Editor",
+  "description": "Visual HTML, CSS, and JS editor with data-pointing to variables, functions, classes, and Web Workers, plus client-side project import and standalone export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
